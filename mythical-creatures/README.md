@@ -8,8 +8,8 @@ A collection of simple exercises to practice Ruby and TDD
 * `vampire_test.rb` `completed`
 * `dragon_test.rb`  `completed`
 * `hobbit_test.rb`  `completed`
-* `pirate_test.rb`
-* `wizard_test.rb`
+* `pirate_test.rb`  `completed`
+* `wizard_test.rb`  `completed`
 * `medusa_test.rb`
 * `werewolf_test.rb`
 * `centaur_test.rb`
