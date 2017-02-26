@@ -4,9 +4,9 @@ A collection of simple exercises to practice Ruby and TDD
 
 ## Suggested Order
 
-* # `unicorn_test.rb`
-* `vampire_test.rb`
-* `dragon_test.rb`
+* `unicorn_test.rb` `completed`
+* `vampire_test.rb` `completed`
+* `dragon_test.rb`  `completed`
 * `hobbit_test.rb`
 * `pirate_test.rb`
 * `wizard_test.rb`
