@@ -11,7 +11,7 @@ A collection of simple exercises to practice Ruby and TDD
 * `pirate_test.rb`  `completed`
 * `wizard_test.rb`  `completed`
 * `medusa_test.rb`  `completed`
-* `werewolf_test.rb`
+* `werewolf_test.rb` `completed`
 * `centaur_test.rb`
 
 ## Extra Challenges
