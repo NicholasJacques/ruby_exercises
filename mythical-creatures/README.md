@@ -7,7 +7,7 @@ A collection of simple exercises to practice Ruby and TDD
 * `unicorn_test.rb` `completed`
 * `vampire_test.rb` `completed`
 * `dragon_test.rb`  `completed`
-* `hobbit_test.rb`
+* `hobbit_test.rb`  `completed`
 * `pirate_test.rb`
 * `wizard_test.rb`
 * `medusa_test.rb`
