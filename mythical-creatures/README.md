@@ -12,7 +12,7 @@ A collection of simple exercises to practice Ruby and TDD
 * `wizard_test.rb`  `completed`
 * `medusa_test.rb`  `completed`
 * `werewolf_test.rb` `completed`
-* `centaur_test.rb`
+* `centaur_test.rb`  `completed`
 
 ## Extra Challenges
 
