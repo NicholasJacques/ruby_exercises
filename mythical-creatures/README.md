@@ -4,15 +4,16 @@ A collection of simple exercises to practice Ruby and TDD
 
 ## Suggested Order
 
-* `unicorn_test.rb` `completed`
-* `vampire_test.rb` `completed`
-* `dragon_test.rb`  `completed`
-* `hobbit_test.rb`  `completed`
-* `pirate_test.rb`  `completed`
-* `wizard_test.rb`  `completed`
-* `medusa_test.rb`  `completed`
+* `unicorn_test.rb`  `completed`
+* `vampire_test.rb`  `completed`
+* `dragon_test.rb`   `completed`
+* `hobbit_test.rb`   `completed`
+* `pirate_test.rb`   `completed`
+* `wizard_test.rb`   `completed`
+* `medusa_test.rb`   `completed`
 * `werewolf_test.rb` `completed`
 * `centaur_test.rb`  `completed`
+* `ogre_test.rb`     `completed`
 
 ## Extra Challenges
 
